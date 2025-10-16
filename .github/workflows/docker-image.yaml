@@ -38,5 +38,5 @@ jobs:
           context: .
           push: true
           tags: |
-            mano2102/docker-images:latest
-            mano2102/docker-images:${{ env.SHORT_SHA }}
+            ajay0003/docker-images:latest
+            ajay0003/docker-images:${{ env.SHORT_SHA }}
